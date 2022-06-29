@@ -1,0 +1,55 @@
+.fcont{
+    position: relative;
+}
+
+
+    
+#navBarRow{ 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
+}
+#nav-under-para{
+    position: absolute;
+    top: 60px;
+    right: 250px;
+    color: #fff;
+}
+.nav-under-header{
+    position: absolute;
+    top: 80px;
+    left: 20px;
+}
+.firstButton{
+    position: absolute;
+    top: 100x;
+    left: 40px;
+}
+.i4lp{
+    position: relative;
+}
+
+.i4l-btn{
+    position: absolute;
+    top: 40px;
+    left: 20px;
+}
+.i4rp{
+    position: relative;
+}
+  .i4rpc{
+    position: absolute;
+    top: 40px;
+    left: 20px;
+  }
+ .bmwlogo img{
+    width: 5rem;
+    height: 5rem ;
+ }
+
+
+
+
+
